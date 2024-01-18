@@ -14,7 +14,7 @@ int main(){
 		++i;
 	}while(i < n);
 	
-    printf("%d", sum);
+    	printf("%d", sum);
 	_getch();
 	return 0;
 }
